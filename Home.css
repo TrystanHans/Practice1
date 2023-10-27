@@ -1,0 +1,44 @@
+h1 {
+    font: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    width: 100%;
+
+}
+
+p {
+    width: 100%;
+}
+
+h2.Brushes {
+    font: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+h2.Frames {
+    font: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+h2.Paint {
+    font: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+style.BlueText{
+    font: helvetica;
+    font-weight: bold;
+    color:blue;
+    display: inline;
+}
